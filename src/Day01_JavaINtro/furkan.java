@@ -8,7 +8,9 @@ public class furkan {
         reverseNumber(1905);
         reverseNumber(2251000);
         reverseNumber(5040);
-
+int num = -5;
+Math.abs(num);
+        System.out.println(num);
     }
 
     public static void reverseNumber (int a){
